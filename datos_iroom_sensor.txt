@@ -1,0 +1,4 @@
+1,'luz','sensorluz','key',1,2,3,4,5,6,7
+2,'agua','sensoragua','key',2,3,4,5,6,7,8
+3,'gas','sensorgas','key',3,4,5,6,7,8,9
+4,'presencia','sensorpresencia','key',4,5,6,7,8,9,10
